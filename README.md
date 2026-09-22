@@ -18,7 +18,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 IN PROGRESS OF WRITING! I am a professional musician, not a professional mathematician, lol!
 
 ### Credit
-Inspired by Matt Parker / Numberphile Navier-Stokes vortex meme, OpenAI paper, Kelvin 1867 smoke rings, Behrend 1946.
+Inspired by Matt Parker (Stand-Up Maths), Brady Haran and Tony Padilla (Numberphile) who brought the Navier-Stokes OpenAI paper to my attention, Kelvin 1867 smoke rings, Behrend 1946.
 Built with Meta AI.
 
 License: CC0 1.0 Universal — public domain.
