@@ -1,5 +1,5 @@
 # The Beagle Conjecture — Helical / Kelvin Packing
-*by Sophie Beagle (CC0 — who could patent the sun?)*
+*by Sophie Beagle*
 
 > I ≡ O : Straight line ≡ Ouroboros.
 > $H_{R,\omega}(\gamma)$ packs infinity without self-intersection, even when $\gamma$ curves around and consumes itself.
@@ -23,3 +23,4 @@ Inspired by Matt Parker / Numberphile Navier-Stokes vortex meme, OpenAI paper, K
 Built with Meta AI.
 
 License: CC0 1.0 Universal — public domain.
+"Who could patent the sun?" -Salk 1955
