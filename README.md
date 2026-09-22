@@ -17,7 +17,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 - [γ₀ ouroboros self-consuming model](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 - [γ₀ straight with k up to 7](Helical%20Packing%20Infinite%20Coils%20up%20to%20k%3D7%20by%20Sophie%20Beagle.html)
 - [γ₀ ouroboros with k up to 5](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
-- [LATEST: Ouroboros with twisting or Helical Ouroboros Packing](Helical%20Moebius-Kelvin%20Ouroboros%20by%20Sophie%20Beagle.html)
+- [LATEST WIP: Ouroboros with twisting or Helical Ouroboros Packing](Helical%20Moebius-Kelvin%20Ouroboros%20by%20Sophie%20Beagle.html)
 
 ### Paper / Writeup
 IN PROGRESS OF WRITING!
