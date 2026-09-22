@@ -19,7 +19,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 - [γ₀ ouroboros with k up to 5](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 - [LATEST WIP: Ouroboros with twisting or Helical Ouroboros Packing](Helical%20Moebius-Kelvin%20Ouroboros%20by%20Sophie%20Beagle.html)
 
-## New Theorem: Helical Ouroboros Packing is self-avoiding for q=\infty when \theta\notin\mathbb{Q}
+## New Theorem: Helical Ouroboros Packing is self-avoiding for $q=\infty$ when $\theta\notin\mathbb{Q}$
 
 ### Paper / Writeup
 IN PROGRESS OF WRITING!
