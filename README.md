@@ -15,8 +15,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 - [New: γ₀ ouroboros self-consuming](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 
 ### Paper / Writeup
-PDF: `The_Helical_Fractal_Universe_DEFINITIVE.pdf`
-Zenodo DOI: (paste here when you get it)
+IN PROGRESS OF WRITING! I am a professional musician, not a professional mathematician, lol!
 
 ### Credit
 Inspired by Matt Parker / Numberphile Navier-Stokes vortex meme, OpenAI paper, Kelvin 1867 smoke rings, Behrend 1946.
