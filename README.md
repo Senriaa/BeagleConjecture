@@ -11,9 +11,8 @@ Helical Packing definition for Erdős problems #3 and #142.
 - No intersections for $k\le3$, $\omega\ge16$ — AP-free, $r_k$-style.
 
 ### Live Demos (GitHub Pages)
-- [Original: γ₀ straight](helical_packing_3d_screw.html)
-- [New: γ₀ ouroboros self-consuming](helical_packing_ouroboros_base.html)
-- [I ≡ O proof sketch](line_ouroboros_beagle_conjecture.html)
+- [Original: γ₀ straight](helical_packing_html_by_sophie_beagle.html)
+- [New: γ₀ ouroboros self-consuming](helical_packing_html_ouroboros_by_sophie_beagle.html)
 
 ### Paper / Writeup
 PDF: `The_Helical_Fractal_Universe_DEFINITIVE.pdf`
