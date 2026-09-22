@@ -19,7 +19,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 - [γ₀ ouroboros with k up to 5](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 
 ### Paper / Writeup
-IN PROGRESS OF WRITING! I am a professional musician, not a professional mathematician, lol!
+IN PROGRESS OF WRITING!
 
 ### Credit
 Inspired by Stand-Up Maths, who originally brought my attention to solving maths problems with AI. Numberphile, who brought the Navier-Stokes OpenAI paper to my attention. Everyone who worked on that OpenAI paper. And Lord Kelvin, who saw vortices in smoke rings in 1867.
