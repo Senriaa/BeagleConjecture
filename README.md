@@ -1,7 +1,7 @@
 # The Beagle Conjecture and Helical Packing / Kelvin Packing
 *by Sophie Beagle*
 
-## TLDR: "Wherever you have T and you're o(1) short, try H^n_{R,\omega}(T) - the solenoid that looks like T from outside but has infinite interior coiling to remember twist."
+## TLDR: "Wherever you have T and you're o(1) short, try H^n_{R,\omega}(T) - the Ouroboros that looks like T from outside but has infinite interior coiling to remember twist."
 
 > I ≡ O : Straight line ≡ Ouroboros.
 > $H_{R,\omega}(\gamma)$ packs infinity without self-intersection, even when $\gamma$ curves around and consumes itself.
