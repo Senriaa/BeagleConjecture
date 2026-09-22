@@ -11,8 +11,8 @@ Helical Packing definition for Erdős problems #3 and #142.
 - No intersections for any $k\le7$, $\omega\ge16$ — AP-free, $r_k$-style.
 
 ### Live Demos (GitHub Pages)
-- [γ₀ straight](Helical%20Packing%20HTML%20by%20Sophie%20Beagle.html)
-- [γ₀ ouroboros self-consuming](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
+- [γ₀ straight with k up to 4](Helical%20Packing%20HTML%20by%20Sophie%20Beagle.html)
+- [γ₀ ouroboros self-consuming model](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 - [γ₀ straight with k up to 7](Helical%20Packing%20Infinite%20Coils%20up%20to%20k%3D7%20by%20Sophie%20Beagle.html)
 - [γ₀ ouroboros with k up to 5](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 
