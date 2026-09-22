@@ -22,8 +22,8 @@ Helical Packing definition for Erdős problems #3 and #142.
 IN PROGRESS OF WRITING! I am a professional musician, not a professional mathematician, lol!
 
 ### Credit
-Inspired by Matt Parker (Stand-Up Maths), Brady Haran and Tony Padilla (Numberphile) who brought the Navier-Stokes OpenAI paper to my attention, Kelvin 1867 smoke rings, Behrend 1946.
-Built with Meta AI.
+Inspired by Stand-Up Maths, who originally brought my attention to solving maths problems with AI. Numberphile, who brought the Navier-Stokes OpenAI paper to my attention. Everyone who worked on that OpenAI paper. And Lord Kelvin, who saw vortices in smoke rings in 1867.
+Concept and conjecture by Sophie Beagle. Models built with Meta AI. I am not associated with Stand-Up Maths, Numberphile, OpenAI, or Lord Kelvin. Heck, I'm a professional musician, not a professional mathematician!
 
-License: CC0 1.0 Universal — public domain.
+License: CC0 1.0 Universal — public domain. For science!
 "Who could patent the sun?" -Salk 1955
