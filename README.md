@@ -8,11 +8,12 @@
 Helical Packing definition for Erdős problems #3 and #142.
 - $\gamma_0$ = straight line → helical coil
 - $\gamma_0$ = ouroboros circle → self-consuming torus helix $R(s)=R_0(1+ks)$
-- No intersections for any $k$, $\omega\ge16$ — AP-free, $r_k$-style.
+- No intersections for any $k\le7$, $\omega\ge16$ — AP-free, $r_k$-style.
 
 ### Live Demos (GitHub Pages)
 - [Original: γ₀ straight](Helical%20Packing%20HTML%20by%20Sophie%20Beagle.html)
 - [New: γ₀ ouroboros self-consuming](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
+- [k\le7](Helical%20Packing%20Infinite%20Coils%20up%20to%20k%3D7%20by%20Sophie%20Beagle.html)
 
 ### Paper / Writeup
 IN PROGRESS OF WRITING! I am a professional musician, not a professional mathematician, lol!
