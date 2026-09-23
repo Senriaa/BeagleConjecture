@@ -12,6 +12,10 @@ Helical Packing definition for Erdős problems #3 and #142.
 - $\gamma_0$ = ouroboros circle → self-consuming torus helix $R(s)=R_0(1+ks)$
 - No intersections for any $k\le7$, $\omega\ge16$ — AP-free, $r_k$-style.
 
+### Why is this important?
+- These lines never touch. Not themselves, not each other, never, ever, for infinity, and the line can be bent into any shape, including onto itself to consume itself, and given the proper growth rate and/or twist, the lines still never intersect.
+- I packed infinity into a finite space.  I think nature does this all the time.
+
 ### Live Demos (GitHub Pages)
 - [γ₀ straight with k up to 4](Helical%20Packing%20HTML%20by%20Sophie%20Beagle.html)
 - [γ₀ ouroboros self-consuming model](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
