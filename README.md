@@ -1,7 +1,7 @@
 # The Beagle Conjecture and Helical Packing / Kelvin Packing
 *by Sophie Beagle*
 
-## TLDR: "Wherever you have T and you're o(1) short, try H^n_{R,\omega}(T) - the Ouroboros that looks like T from outside but has infinite interior coiling to remember twist."
+### TLDR: "Wherever you have T and you're o(1) short, try H^n_{R,\omega}(T) - the Ouroboros that looks like T from outside but has infinite interior coiling to remember twist."
 
 > I ≡ O : Straight line ≡ Ouroboros.
 > $H_{R,\omega}(\gamma)$ packs infinity without self-intersection, even when $\gamma$ curves around and consumes itself.
@@ -23,7 +23,7 @@ Helical Packing definition for Erdős problems #3 and #142.
 - [γ₀ ouroboros with k up to 5](Helical%20Packing%20HTML%20Ouroboros%20by%20Sophie%20Beagle.html)
 - [LATEST WIP: Ouroboros with twisting or Helical Ouroboros Packing](Helical%20Moebius-Kelvin%20Ouroboros%20by%20Sophie%20Beagle.html)
 
-## New Theorem: Helical Ouroboros Packing is self-avoiding for $q=\infty$ when $\theta\notin\mathbb{Q}$
+### New Theorem: Helical Ouroboros Packing is self-avoiding for $q=\infty$ when $\theta\notin\mathbb{Q}$
 
 ### Paper / Writeup
 IN PROGRESS OF WRITING!
